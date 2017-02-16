@@ -12,6 +12,7 @@ import {
   BaThemeConfigProvider
 } from './theme.configProvider';
 
+/*
 import {
   BaAmChart,
   BaBackTop,
@@ -30,7 +31,8 @@ import {
 } from './components';
 
 import { BaCardBlur } from './components/baCard/baCardBlur.directive';
-
+*/
+/*
 import {
   BaScrollPosition,
   BaSlimScroll,
@@ -42,10 +44,10 @@ import {
   BaKameleonPicturePipe,
   BaProfilePicturePipe
 } from './pipes';
-
+*/
 import {
   BaImageLoaderService,
-  BaMenuService,
+  //BaMenuService,
   BaThemePreloader,
   BaThemeSpinner
 } from './services';
@@ -56,6 +58,7 @@ import {
 } from './validators';
 
 const NGA_COMPONENTS = [
+  /*
   BaAmChart,
   BaBackTop,
   BaCard,
@@ -69,27 +72,29 @@ const NGA_COMPONENTS = [
   BaMultiCheckbox,
   BaPageTop,
   BaPictureUploader,
-  BaSidebar
+  BaSidebar*/
 ];
 
 const NGA_DIRECTIVES = [
+  /*
   BaScrollPosition,
   BaSlimScroll,
   BaThemeRun,
-  BaCardBlur
+  BaCardBlur*/
 ];
 
 const NGA_PIPES = [
+  /*
   BaAppPicturePipe,
   BaKameleonPicturePipe,
-  BaProfilePicturePipe
+  BaProfilePicturePipe*/
 ];
 
 const NGA_SERVICES = [
   BaImageLoaderService,
   BaThemePreloader,
   BaThemeSpinner,
-  BaMenuService
+  //BaMenuService
 ];
 
 const NGA_VALIDATORS = [

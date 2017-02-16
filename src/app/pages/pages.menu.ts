@@ -1,3 +1,4 @@
+/*
 export const PAGES_MENU = [
   {
     path: 'pages',
@@ -328,3 +329,4 @@ export const PAGES_MENU = [
     ]
   }
 ];
+*/
