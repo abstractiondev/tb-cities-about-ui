@@ -1,4 +1,4 @@
-The Ball for Citiees about/login area. Based on the Admin template fork, so the original readme left intact below.
+The Ball for Cities Core UI for about/account/group area. Based on the Admin template fork, so the original readme left intact below.
 
 
 [![Build Status](https://travis-ci.org/akveo/ng2-admin.svg?branch=master)](https://travis-ci.org/akveo/ng2-admin)
